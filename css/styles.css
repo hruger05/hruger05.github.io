@@ -1,0 +1,16 @@
+.link {
+    color: black;
+    text-decoration-line: initial;
+}
+
+h1 {
+    color: black;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+
+.move {
+    color: black;
+    text-decoration: underline;
+    text-decoration-style: solid;
+}

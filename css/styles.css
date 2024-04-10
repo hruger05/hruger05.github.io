@@ -10,7 +10,5 @@ h1 {
 }
 
 .move {
-    color: black;
-    text-decoration: underline;
-    text-decoration-style: solid;
+    color: blue;
 }
